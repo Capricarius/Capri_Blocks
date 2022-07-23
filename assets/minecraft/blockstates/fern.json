@@ -1,0 +1,15 @@
+{
+	"variants": {
+		"": [{
+				"model": "minecraft:block/fern"
+			},
+			{
+				"model": "minecraft:block/fern1"
+			},
+			{
+				"model": "minecraft:block/fern2"
+			}
+				]
+	}
+}
+

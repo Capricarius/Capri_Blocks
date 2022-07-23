@@ -2,19 +2,52 @@
   "variants": {
     "": [
       {
-        "model": "minecraft:block/dirt"
+        "model": "block/dirt/block/0"
       },
       {
-        "model": "minecraft:block/dirt",
-        "y": 90
+        "model": "block/dirt/block/1"
       },
       {
-        "model": "minecraft:block/dirt",
-        "y": 180
+        "model": "block/dirt/block/2"
       },
       {
-        "model": "minecraft:block/dirt",
-        "y": 270
+        "model": "block/dirt/block/3"
+      },
+      {
+        "model": "block/dirt/block/4"
+      },
+      {
+        "model": "block/dirt/block/5"
+      },
+      {
+        "model": "block/dirt/block/6"
+      },
+      {
+        "model": "block/dirt/block/7"
+      },
+      {
+        "model": "block/dirt/block/8"
+      },
+      {
+        "model": "block/dirt/block/9"
+      },
+      {
+        "model": "block/dirt/block/10"
+      },
+      {
+        "model": "block/dirt/block/11"
+      },
+      {
+        "model": "block/dirt/block/12"
+      },
+      {
+        "model": "block/dirt/block/13"
+      },
+      {
+        "model": "block/dirt/block/14"
+      },
+      {
+        "model": "block/dirt/block/15"
       }
     ]
   }
